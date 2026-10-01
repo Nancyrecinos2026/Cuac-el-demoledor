@@ -15,6 +15,15 @@ Soy programador Jr. con conocimientos y buenas prácticas en JOO.
 Proyecto integrado basado en la estructura de un video juego realizado por medio del clico de vida del software 
 
 # 1.Analisis 
-# 2.Diseño 
+Cuac el Demoledor es un juego de estrategia por turnos donde debes proteger a la princesa Mia construyendo y reparando una fortaleza contra patos y animales enemigos.
+Cómo juegas: En tu turno colocas bloques o usas poderes; luego, los enemigos atacan.
+Enemigos: Patos que destruyen bloques, un mapache que roba y un topo que ataca por abajo.
+Ganas: Si pasas todos los niveles y salvas a Mia.
+Pierdes: Si Mia se lastima, la fortaleza cae o te quedas sin bloques.
+
+# 2. Diseño
+Se realizó el diseño y diagrama de flujo del juego..
 # 3.Desarrollo/Codigo 
+Se programó el juego y sus diferentes funciones.
 # 4.Presentación en GitHub 
+Se presenta el proyecto y su código en GitHub.
